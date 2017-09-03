@@ -1,5 +1,13 @@
 Hello World!
 
-This is a text file made by developer1
+**Dev2 found this unnecessary
 
 This is deleted by developer2, developer2 made some additional edits here
+
+Wicked ASCII code art by dev2
+_________            .___      
+\_   ___ \  ____   __| _/____  
+/    \  \/ /  _ \ / __ |/ __ \ 
+\     \___(  <_> ) /_/ \  ___/ 
+ \______  /\____/\____ |\___  >
+        \/            \/    \/ 
