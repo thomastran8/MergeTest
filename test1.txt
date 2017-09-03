@@ -2,4 +2,4 @@ Hello World!
 
 This is a text file made by developer1
 
-This is a second edit by developer1
+This is a third edit by developer1, additional edits by developer1 making fixes
